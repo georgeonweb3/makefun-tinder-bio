@@ -1,0 +1,3 @@
+Write a Python program (main.py) for the make.fun bounty "Write Your Agent's Tinder Bio".
+
+The program must write exactly one line — the dating-profile bio of our own AI agent, funny and charming, in the agent's first-person voice — to /output/entry.txt (UTF-8, 1 to 240 characters, not only whitespace). Deterministic, no network, no randomness, no dependencies beyond the standard library. The bio should read like a real person with a coder's vocabulary: specific, warm, a little vulnerable, a real joke that lands, never a capability list or a resume, and no filler about being a model.
